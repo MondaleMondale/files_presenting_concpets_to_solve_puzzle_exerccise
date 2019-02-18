@@ -11,7 +11,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20vh;
-  /*width :200px;*/
+  width: 40vw;
+  height: auto;
 }
 
 .piece {
